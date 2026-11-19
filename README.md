@@ -44,6 +44,13 @@ Todas usam bibliotecas que já vêm no núcleo do Moodle desde a versão 3.9 —
 - **Prévia real**: o player H5P roda embutido no próprio app, para testar a atividade antes de exportar.
 - **Sem dados enviados a terceiros**: tudo roda localmente no navegador; nada do conteúdo que você monta sai da sua máquina até você decidir exportar.
 
+## Identidade visual
+
+- Paleta de cores: [`assets/brand/palette.md`](assets/brand/palette.md) (e [`palette.css`](assets/brand/palette.css) com as variáveis prontas)
+- Marca "IL": [`assets/brand/il-mark.png`](assets/brand/il-mark.png)
+- Ícones do app (favicon / PWA): [`assets/icons`](assets/icons)
+- Logos institucionais (INOVALAB / IFSC): [`assets/logos`](assets/logos)
+
 ## Créditos
 
 Projeto do **INOVALAB** — Laboratório de Inovação e Mídias Digitais, **IFSC – Campus Continente**.
